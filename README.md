@@ -10,7 +10,7 @@ https://github.com/Bahri-Adem/3D-Web-Developer-Portfolio-in-React-JS/assets/1039
 
 Welcome to my impressive ThreeJS 3D Developer Portfolio! This showcase exhibits my expertise in 3D graphics and animations using Three.js, React.js, and Tailwind CSS.
 
-You can experience the live portfolio here: [https://adembahri.me/](https://adembahri.me/)
+You can experience the live portfolio here: [https://bahri-adem.github.io/](https://bahri-adem.github.io/)
 
 ## Technologies Used
 
